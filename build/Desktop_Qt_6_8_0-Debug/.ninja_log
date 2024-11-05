@@ -1,0 +1,9 @@
+# ninja log v6
+3	283	1730801789112344957	Process_Scheduler_autogen/timestamp	19c2606e1f90bb69
+3	283	1730801789112344957	Process_Scheduler_autogen/mocs_compilation.cpp	19c2606e1f90bb69
+3	283	1730801789112344957	/home/aghaye_ka/porj/Process_Scheduler/build/Desktop_Qt_6_8_0-Debug/Process_Scheduler_autogen/timestamp	19c2606e1f90bb69
+3	283	1730801789112344957	/home/aghaye_ka/porj/Process_Scheduler/build/Desktop_Qt_6_8_0-Debug/Process_Scheduler_autogen/mocs_compilation.cpp	19c2606e1f90bb69
+283	1754	1730801789116344890	CMakeFiles/Process_Scheduler.dir/Process_Scheduler_autogen/mocs_compilation.cpp.o	e4045798c8fbad9d
+284	1812	1730801789120344822	CMakeFiles/Process_Scheduler.dir/main.cpp.o	6d1855d79e58c84
+284	1840	1730801789120344822	CMakeFiles/Process_Scheduler.dir/mainwindow.cpp.o	530f2b9e8d41e328
+1840	2138	1730801790676318665	Process_Scheduler	eaad299a89c57c4

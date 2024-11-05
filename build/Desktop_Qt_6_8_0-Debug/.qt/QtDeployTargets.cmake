@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Process_Scheduler_FILE /home/aghaye_ka/porj/Process_Scheduler/build/Desktop_Qt_6_8_0-Debug/Process_Scheduler)
+set(__QT_DEPLOY_TARGET_Process_Scheduler_TYPE EXECUTABLE)
